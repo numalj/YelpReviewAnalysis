@@ -11,3 +11,13 @@ This project scrapes the Yelp website to extract customer reviews of restaurants
 - Training a Naive Bayes Classifier
 - Using the validation set to measure the model's performance
 
+
+**Potential use cases that I identified:**
+
+* The ratio of positive to/negative reviews can also be monitored enabling quality control of the restaurant.
+* This sort of model can be used to clasify future reviews so that when the number of reviews is very high, 
+  common themes in the negative reviews can be extracted and addressed much faster. 
+* Reviews can be further broken down into categories such as location and cusine.
+  This can provide insight into locations that might have low barriers to entry because none the 
+  existing restaurants are satisfying the majority of customers
+* Finding insights about what about restaurants people like and dislike
